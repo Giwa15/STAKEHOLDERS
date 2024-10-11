@@ -4,6 +4,8 @@
  https://giwa15.github.io/STAKEHOLDERS/
 
  # Attahed is the screenshot 
+ ![image](https://github.com/user-attachments/assets/3287ee12-04cb-4bfd-9346-8822bbd871d1)
+
 
 
  # Features
